@@ -1,0 +1,16 @@
+{
+  "name": "test-watcher",
+  "version": "0.0.0",
+  "description": "Watches changes for all files in a directory.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "unit",
+    "test",
+    "watch",
+    "directory",
+    "files"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT"
+}
