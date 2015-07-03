@@ -1,10 +1,13 @@
 # test-watcher
 
-> Watches changes for all files in a directory.
+> Watches changes for all files in a directory and runs npm test.
 
 ## Usage
 
 ```js
+
+var testRunner = require('test-watcher');
+testRunner('./test');
 
 ```
 
